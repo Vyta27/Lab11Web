@@ -220,6 +220,9 @@ $result = $db->query("SELECT * FROM artikel");
     <?php endwhile; ?>
 </table>
 ```
+<img width="1920" height="1008" alt="Image" src="https://github.com/user-attachments/assets/86672e06-f541-42a1-851d-1867dc18a275" />
+
+<img width="1920" height="1008" alt="Image" src="https://github.com/user-attachments/assets/8542ad51-693c-430f-9e24-dd06d419896d" />
 
 ## Langkah 7 
 - artikel/tambah.php
