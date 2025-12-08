@@ -38,6 +38,9 @@ CREATE TABLE artikel (
 );
 ```
 
+<img width="1920" height="1008" alt="Image" src="https://github.com/user-attachments/assets/77287263-8a3b-4d98-a2dc-50f1468debac" />
+
+
 ## Langkah 3
 - File class OOP yang digunakan
 - Database.php
