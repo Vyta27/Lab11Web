@@ -320,4 +320,7 @@ if ($_POST) {
     </table>
 </form>
 ```
+<img width="1920" height="1008" alt="Image" src="https://github.com/user-attachments/assets/e94b98e8-3b78-45f8-b972-b3315d4cc794" />
+
+<img width="1920" height="1008" alt="Image" src="https://github.com/user-attachments/assets/37c956ec-1b7e-419e-9923-2a216bcb4a11" />
 
