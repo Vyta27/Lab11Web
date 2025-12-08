@@ -252,6 +252,8 @@ $form->addField("isi", "Isi Artikel");
 $form->displayForm();
 ?>
 ```
+<img width="1920" height="1008" alt="Image" src="https://github.com/user-attachments/assets/5d8b9ab6-1068-4baf-a2d9-ff5564e8c183" />
+
 ## Langkah 8
 - artikel/ubah.php
 - Mengedit artikel berdasarkan ID.
