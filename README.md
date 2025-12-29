@@ -135,7 +135,7 @@ class Form {
     RewriteEngine On
     RewriteBase /lab11_php_oop/
 
-    RewriteCond %{REQUEST_FILENAME} !-f
+    RewriteCond %{REQUEST_FILENAME} !-f 
     RewriteCond %{REQUEST_FILENAME} !-d
 
     RewriteRule ^(.*)$ index.php/$1 [L]
